@@ -2,7 +2,7 @@
 this is jake's language learning list (L3), where i upload my language learning resources and templates, blank and filled!
 
 if you don't see your language here, you can make it yourself with the templates!
-- [English (Templates for your own language!)](englishTemplates.md)
+- [English (Templates for your own language!)](english.md)
 
 Completion Key:
 | Not Started | In Progress | Finished |
