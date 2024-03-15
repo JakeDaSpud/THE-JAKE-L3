@@ -2,10 +2,10 @@
 
 ### Pronouns
 
-| Pro-drop? | Yes / No |
+| pro-drop? | yes / no |
 | --- | --- |
 
-[ Pronoun-dropping (Pro-drop) languages do not **need** to say a pronoun, as the verb conjugation itself can express what the subject is. ]
+pronoun-dropping (pro-drop) languages **do not ***need***** to say a pronoun, as the verb conjugation itself can express what the subject is.
 
 | english | target language |
 | --- | --- |
