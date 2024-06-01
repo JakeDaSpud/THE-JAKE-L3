@@ -45,4 +45,6 @@ notes:
 - i didn't know there were 2 forms of sayonara, which i already know isn't widely used anyways, interesting.
 - there's a different comma in どうぞ、よろしく there´s a ´、´ character.
 
+a friend sent me this [article](https://blog.boxofmanga.com/easy-visual-novels-read-japanese/) for some easy visual novels to check out
+
 </details>
