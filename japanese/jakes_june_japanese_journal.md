@@ -152,3 +152,45 @@ notes:
 - word for MY mam is different from someone else's mam etc.
 
 </details>
+
+<details>
+  <summary>[ 03 | 🙈 ]</summary>
+
+YOUR family!
+
+lesson 03 learnings:
+
+family:
+- お父さん。otohsan
+  - dad
+- お母さん。okahsan
+  - mam
+
+- 子供さん。
+  - children
+- ご兄弟。go kyohdai
+  - siblings
+
+- 息子さん。musuko san
+  - son
+- 娘さん。musume san
+  - daughter
+
+- nameさんの奥さん。name-san no okusan
+  - wife of name
+- nameさんのご主人。name-san no goshujin
+  - husband of name
+
+- ご兄弟はいらっしゃいますか？go kyohdai wa irasshai masuka
+  - do you have any siblings? (formal)
+- 兄弟いる？kyohdai iru
+  - do you have any siblings? (informal)
+
+- これ。kore
+  - this
+- あれ。a-re
+  - that
+- でも。demo
+  - but
+
+</details>
